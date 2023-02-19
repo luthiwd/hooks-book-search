@@ -1,0 +1,375 @@
+[
+  {
+    "ID": "16806",
+    "title": "JavaScript Notes for Professional",
+    "author": "Varios",
+    "content": "This JavaScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. \r\n\r\nText content is released under Creative Commons BY-SA, see credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified.",
+    "content_short": "This JavaScript Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. \r\n\r\nText content is released under Creative Commons ...",
+    "publisher": "GoalKicker.com",
+    "publisher_date": "2018",
+    "pages": "490",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/javascript-notes-for-professional/",
+    "url_download": "https://openlibra.com/book/javascript-notes-for-professional",
+    "cover": "https://olcovers2.blob.core.windows.net/coverswp/2018/05/JavaScriptNotesForProfessionals-Openlibra-326x461.png",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2018/05/JavaScriptNotesForProfessionals-Openlibra-110x153.png",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 287, "name": "desarrollo web", "nicename": "desarrollo-web" },
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" },
+      {
+        "tag_id": 760,
+        "name": "programación web",
+        "nicename": "programacion-web"
+      }
+    ]
+  },
+  {
+    "ID": "16682",
+    "title": "Eloquent Javascript 3rd Edition",
+    "author": "Marijn Haverbeke",
+    "content": "This is a book about instructing computers. Computers are about as common as screwdrivers today. But they are quite a bit more complex than screwdrivers, and making them do the precise thing you want them to do isn’t always easy.\r\n\r\nIf the task you have for your computer is a common, well-understood one, such as showing you your email or acting like a calculator, you can open the appropriate application and get to work. But for unique or open ended tasks, there may not be an application.\r\n\r\nThat is where programming may come in. Programming is the act of constructing a program—a set of precise instructions, that tell a computer what to do. Because computers are dumb, pedantic beasts, programming is fundamentally tedious and frustrating. \r\n\r\nFortunately, if you can get over that, and maybe even enjoy the rigor of thinking in terms that dumb machines can deal with, programming can be very rewarding. It allows you to do things that would take forever by hand in seconds. It is a way to make your computer tool do things that it couldn’t do before. And it provides a wonderful exercise in abstract thinking.\r\n\r\nMost programming is done with programming languages. A programming language is an artifcially constructed language used to instruct computers. It is interesting that the most eﬀective way we’ve found to communicate with a computer borrows so heavily from the way we communicate with each other. Like human languages, computer languages allow words and phrases to be combined in new ways, allowing you to express ever new concepts.",
+    "content_short": "This is a book about instructing computers. Computers are about as common as screwdrivers today. But they are quite a bit more complex than screwdrivers, and making them do the ...",
+    "publisher": "Autoedición",
+    "publisher_date": "2018",
+    "pages": "447",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/eloquent-javascript-3rd-edition/",
+    "url_download": "https://openlibra.com/book/eloquent-javascript-3rd-edition",
+    "cover": "https://olcovers2.blob.core.windows.net/coverswp/2018/02/Eloquent_JavaScript-OpenLibra-325x461.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2018/02/Eloquent_JavaScript-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" }
+    ]
+  },
+  {
+    "ID": "15951",
+    "title": "JavaScript, ¡Inspírate!",
+    "author": "Ulises Gascón González",
+    "content": "He tenido grandes maestros, que me han enseñado mucho y he leído muchos libros sobre este mundillo… pero nunca he logrado dar con el libro que solucionará todas las dudas o me diera una base sólida sobre la que crecer en un lenguaje tan fascinante y estigmatizado como es JavaScript. \r\n\r\nPor eso, este libro esta escrito como me hubiera gustado que fueran aquellos que yo leía cuando empezaba a programar en JavaScript. Este libro que tienes ahora mismo ante tus ojos, es el resultado de mi esfuerzo personal, con el objeto de crear un instrumento sencillo y simple que muestre al lector la base de un lenguaje tan peculiar y extendido como JavaScript. \r\n\r\nMi idea, es empezar desde cero y hacer un viaje juntos desde los abismos profundos de la duda, pasando por el pseudocódigo hasta llegar al maravilloso mundo de las llamadas Ajax, haciendo muchas paradas en el camino, en las que aprenderemostodo lo que necesitas para empezar tu aventura como desarrollador Front-end con sólidas bases en JavaScript.",
+    "content_short": "He tenido grandes maestros, que me han enseñado mucho y he leído muchos libros sobre este mundillo… pero nunca he logrado dar con el libro que solucionará todas las dudas ...",
+    "publisher": "Leanpub",
+    "publisher_date": "2017",
+    "pages": "149",
+    "language": "spanish",
+    "url_details": "https://www.etnassoft.com/biblioteca/javascript-inspirate/",
+    "url_download": "https://openlibra.com/book/javascript-inspirate",
+    "cover": "https://olcovers2.blob.core.windows.net/coverswp/2017/02/javascript-inspirate-OpenLibra-326x461.gif",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2017/02/javascript-inspirate-OpenLibra-110x153.gif",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" }
+    ]
+  },
+  {
+    "ID": "14197",
+    "title": "The Good, the Bad, and the Ugly: An Empirical Study of Implicit Type Conversions in Javascript",
+    "author": "Michael Pradel & Koushik Sen",
+    "content": "Most popular programming languages support situations where a value of one type is converted into a value of another type without any explicit cast. Such implicit type conversions, or type coercions, are a highly controversial language feature. Proponents argue that type coercions enable writing concise code. Opponents argue that type coercions are error-prone and that they reduce the understandability of programs. This paper studies the use of type coercions in JavaScript, a language notorious for its widespread use of coercions. We dynamically analyze hundreds of programs, including real-world web applications and popular benchmark programs. \r\n\r\nWe find that coercions are widely used (in 80.42% of all function executions) and that most coercions are likely to be harmless (98.85%). Furthermore, we identify a set of rarely occurring and potentially harmful coercions that safer subsets of JavaScript or future language designs may want to disallow. Our results suggest that type coercions are significantly less evil than commonly assumed and that analyses targeted at real-world JavaScript programs must consider coercions.",
+    "content_short": "Most popular programming languages support situations where a value of one type is converted into a value of another type without any explicit cast. Such implicit type conversions, or type ...",
+    "publisher": "ECOOP",
+    "publisher_date": "2015",
+    "pages": "23",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/the-good-the-bad-and-the-ugly-an-empirical-study-of-implicit-type-conversions-in-javascript/",
+    "url_download": "https://openlibra.com/book/the-good-the-bad-and-the-ugly-an-empirical-study-of-implicit-type-conversions-in-javascript",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/10/Type-Conversions-in-JavaScript-paper-OpenLibra-308x461.png",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/10/Type-Conversions-in-JavaScript-paper-OpenLibra-110x153.png",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      },
+      {
+        "category_id": 501,
+        "name": "Textos Académicos",
+        "nicename": "textos-academicos"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 1492, "name": "paper", "nicename": "paper" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" },
+      { "tag_id": 2123, "name": "tipos", "nicename": "tipos" }
+    ]
+  },
+  {
+    "ID": "14195",
+    "title": "Optimization Coaching for Javascript",
+    "author": "Vincent St-Amour & Shu-yu Guo",
+    "content": "The performance of dynamic object-oriented programming languages such as JavaScript depends heavily on highly optimizing just-in-time compilers. Such compilers, like all compilers, can silently fall back to generating conservative, low-performance code during optimization. As a result, programmers may inadvertently cause performance issues on users’ systems by making seemingly inoffensive changes to programs. This paper shows how to solve the problem of silent optimization failures. It specifically explains how to create a so-called optimization coach for an object-oriented just-in-time-compiled programming language. The development and evaluation build on the SpiderMonkey JavaScript engine, but the results should generalize to a variety of similar platforms.",
+    "content_short": "The performance of dynamic object-oriented programming languages such as JavaScript depends heavily on highly optimizing just-in-time compilers. Such compilers, like all compilers, can silently fall back to generating conservative, low-performance ...",
+    "publisher": "ECOOP",
+    "publisher_date": "2015",
+    "pages": "25",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/optimization-coaching-for-javascript/",
+    "url_download": "https://openlibra.com/book/optimization-coaching-for-javascript",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/10/Optimization-Coaching-Javascript-paper-OpenLibra-308x461.png",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/10/Optimization-Coaching-Javascript-paper-OpenLibra-110x153.png",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      },
+      {
+        "category_id": 501,
+        "name": "Textos Académicos",
+        "nicename": "textos-academicos"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 250, "name": "oop", "nicename": "oop" },
+      { "tag_id": 1492, "name": "paper", "nicename": "paper" },
+      { "tag_id": 2990, "name": "POO", "nicename": "poo" },
+      { "tag_id": 144, "name": "rendimiento", "nicename": "rendimiento" }
+    ]
+  },
+  {
+    "ID": "10195",
+    "title": "CSS3 y Javascript avanzado",
+    "author": "Jordi Collell Puig",
+    "content": "En este manual proveniente de la UOC se analizan dos de las tecnologías más punteras en cuanto al desarrollo web (CSS3) y de la programación en general (Javascript). Ambos, son los encargados de dotar a un proyecto tanto de su imagen corporativa como de la capa de interacción con el usuario final.\r\n\r\nAlgunos de los aspectos que se tratan son los siguientes:\r\n<ul>\r\n<li>Introducción a la especificación tercera CSS</li>\r\n<li>Novedades CSS3</li>\r\n<li>Nuevas propiedades CSS3</li>\r\n<li>Bibliotecas Javascript</li>\r\n<li>jQuery</li>\r\n<li>Prototype</li>\r\n<li>YUI</li>\r\n<li>MooTools</li>\r\n<li>Canvas</li>\r\n</ul>",
+    "content_short": "En este manual proveniente de la UOC se analizan dos de las tecnologías más punteras en cuanto al desarrollo web (CSS3) y de la programación en general (Javascript). Ambos, son ...",
+    "publisher": "UOC",
+    "publisher_date": "2013",
+    "pages": "86",
+    "language": "spanish",
+    "url_details": "https://www.etnassoft.com/biblioteca/css3-y-javascript-avanzado/",
+    "url_download": "https://openlibra.com/book/css3-y-javascript-avanzado",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/07/CSS3-y-Javascript-Avanzado-OpenLibra-325x461.gif",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/07/CSS3-y-Javascript-Avanzado-OpenLibra-110x153.gif",
+    "num_comments": "0",
+    "categories": [
+      { "category_id": 213, "name": "CSS", "nicename": "desarrollo_web_css" },
+      {
+        "category_id": 212,
+        "name": "Desarrollo Web",
+        "nicename": "desarrollo_web"
+      },
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2991, "name": "AJAX", "nicename": "ajax" },
+      { "tag_id": 82, "name": "canvas", "nicename": "canvas" },
+      { "tag_id": 153, "name": "css3", "nicename": "css3" },
+      { "tag_id": 314, "name": "diseño web", "nicename": "diseno-web" },
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 2987, "name": "jQuery", "nicename": "jquery" },
+      { "tag_id": 404, "name": "Mootols", "nicename": "mootols" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" },
+      {
+        "tag_id": 760,
+        "name": "programación web",
+        "nicename": "programacion-web"
+      },
+      { "tag_id": 405, "name": "Prototype", "nicename": "prototype" },
+      { "tag_id": 239, "name": "UOC", "nicename": "uoc" },
+      { "tag_id": 2113, "name": "YUI", "nicename": "yui" }
+    ]
+  },
+  {
+    "ID": "13687",
+    "title": "Eloquent JavaScript: Second Edition",
+    "author": "Marijn Haverbeke",
+    "content": "This is a book about getting computers to do what you want them to do. Computers are about as common as screwdrivers today, but they contain a lot more hidden complexity and thus are harder to operate and understand. To many, they remain alien, slightly threatening things.\r\n\r\nWe’ve found two effective ways of bridging the communication gap between us, squishy biological organisms with a talent for social and spatial reasoning, and computers, unfeeling manipulators of meaningless data. The first is to appeal to our sense of the physical world and build interfaces that mimic that world and allow us to manipulate shapes on a screen with our fingers. This works very well for casual machine interaction.\r\n\r\nBut we have not yet found a good way to use the point-and-click approach to communicate things to the computer that the designer of the interface did not anticipate. For open-ended interfaces, such as instructing the computer to perform arbitrary tasks, we’ve had more luck with an approach that makes use of our talent for language: teaching the machine a language.",
+    "content_short": "This is a book about getting computers to do what you want them to do. Computers are about as common as screwdrivers today, but they contain a lot more hidden ...",
+    "publisher": "Autoedición",
+    "publisher_date": "2014",
+    "pages": "490",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/eloquent-javascript-second-edition/",
+    "url_download": "https://openlibra.com/book/eloquent-javascript-second-edition",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/05/Eloquent-Javascript-2nd-OpenLibra-350x454.jpg",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/05/Eloquent-Javascript-2nd-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 50, "name": "ECMAScript", "nicename": "ecmascript" },
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" }
+    ]
+  },
+  {
+    "ID": "13683",
+    "title": "JavaScript Allongé (Free Edition)",
+    "author": "Reginald Braithwaite",
+    "content": "Café Allongé, also called Espresso Lungo, is a drink midway between an Espresso and Americano in strength. There are two different ways to make it. The first, and the one I prefer, is to add a small amount of hot water to a double or quadruple Espresso Ristretto. \r\n\r\nLike adding a splash of water to whiskey, the small dilution releases more of the complex flavours in the mouth.\r\n\r\nThe second way is to pull an extra long double shot of Espresso. This achieves approximately the same ratio of oils to water as the dilution method, but also releases a different mix of flavours due to the longer extraction. Some complain that the long pull is more bitter and detracts from the best character of the coffee, others feel it releases even more complexity.\r\n\r\nThe important thing is that neither method of preparation should use so much water as to result in a sickly, pale ghost of Espresso. Moderation in all things.",
+    "content_short": "Café Allongé, also called Espresso Lungo, is a drink midway between an Espresso and Americano in strength. There are two different ways to make it. The first, and the one ...",
+    "publisher": "Leanpub",
+    "publisher_date": "2014",
+    "pages": "61",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/javascript-allonge-free-edition/",
+    "url_download": "https://openlibra.com/book/javascript-allonge-free-edition",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/05/Javascript-Allonge-OpenLibra-350x455.jpg",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/05/Javascript-Allonge-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" }
+    ]
+  },
+  {
+    "ID": "13535",
+    "title": "The Spy in the Sandbox: Practical Cache Attacks in Javascript",
+    "author": "Varios",
+    "content": "We present the first micro-architectural side-channel attack which runs entirely in the browser. In contrast to other works in this genre, this attack does not require the attacker to install any software on the victim’s machine – to facilitate the attack, the victim needs only to browse to an untrusted webpage with attacker-controlled content. This makes the attack model highly scalable and extremely relevant and practical to today’s web, especially since most desktop browsers currently accessing the Internet are vulnerable to this attack. Our attack, which is an extension of the last-level cache attacks of Yarom et al., allows a remote adversary recover information belonging to other processes, other users and even other virtual machines running on the same physical host as the victim web browser. We describe the fundamentals behind our attack, evaluate its performance using a high bandwidth covert channel and finally use it to construct a system-wide mouse/network activity logger. Defending against this attack is possible, but the required countermeasures can exact an impractical cost on other benign uses of the web browser and of the computer.",
+    "content_short": "We present the first micro-architectural side-channel attack which runs entirely in the browser. In contrast to other works in this genre, this attack does not require the attacker to install ...",
+    "publisher": "Columbia University",
+    "publisher_date": "2015",
+    "pages": "14",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/the-spy-in-the-sandbox-practical-cache-attacks-in-javascript/",
+    "url_download": "https://openlibra.com/book/the-spy-in-the-sandbox-practical-cache-attacks-in-javascript",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/03/The-Spy-in-the-Sandbox-Cache-Attacks-in-Javascript-OpenLibra-308x461.png",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/03/The-Spy-in-the-Sandbox-Cache-Attacks-in-Javascript-OpenLibra-110x153.png",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 501,
+        "name": "Textos Académicos",
+        "nicename": "textos-academicos"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 1492, "name": "paper", "nicename": "paper" },
+      { "tag_id": 32, "name": "programación", "nicename": "programacion" },
+      { "tag_id": 199, "name": "seguridad", "nicename": "seguridad" }
+    ]
+  },
+  {
+    "ID": "12466",
+    "title": "Improving JavaScript Performance by Deconstructing the Type System",
+    "author": "Varios",
+    "content": "Increased focus on JavaScript performance has resulted in vast performance improvements for many benchmarks. However, for actual code used in websites, the attained improvements often lag far behind those for popular benchmarks.\r\n\r\nThis paper shows that the main reason behind this shortfall is how the compiler understands types. JavaScript has no concept of types, but the compiler assigns types to objects anyway for ease of code generation. We examine the way that the Chrome V8 compiler defines types, and identify two design decisions that are the main reasons for the lack of improvement: the inherited prototype object is part of the current object’s type definition, and method bindings are also part of the type definition. These requirements make types very unpredictable, which hinders type specialization by the compiler. Hence, we modify V8 to remove these requirements, and use it to compile the JavaScript code assembled by JSBench from real websites. On average, we reduce the execution time of JSBench by 36%, and the dynamic instruction count by 49%.",
+    "content_short": "Increased focus on JavaScript performance has resulted in vast performance improvements for many benchmarks. However, for actual code used in websites, the attained improvements often lag far behind those for ...",
+    "publisher": "University of Illinois",
+    "publisher_date": "2014",
+    "pages": "12",
+    "language": "english",
+    "url_details": "https://www.etnassoft.com/biblioteca/improving-javascript-performance-by-deconstructing-the-type-system/",
+    "url_download": "https://openlibra.com/book/improving-javascript-performance-by-deconstructing-the-type-system",
+    "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2014/07/Improving-Javascript-Performance-by-Deconstructing-theType-System-OpenLibra-307x461.gif",
+    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2014/07/Improving-Javascript-Performance-by-Deconstructing-theType-System-OpenLibra-110x153.gif",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 223,
+        "name": "Javascript / AJAX",
+        "nicename": "programacion_javascript_ajax"
+      },
+      {
+        "category_id": 220,
+        "name": "Programación",
+        "nicename": "libros_programacion"
+      },
+      {
+        "category_id": 501,
+        "name": "Textos Académicos",
+        "nicename": "textos-academicos"
+      }
+    ],
+    "tags": [
+      { "tag_id": 2986, "name": "Javascript", "nicename": "javascript" },
+      { "tag_id": 1492, "name": "paper", "nicename": "paper" },
+      { "tag_id": 405, "name": "Prototype", "nicename": "prototype" },
+      { "tag_id": 144, "name": "rendimiento", "nicename": "rendimiento" },
+      { "tag_id": 1504, "name": "scripting", "nicename": "scripting" },
+      { "tag_id": 2123, "name": "tipos", "nicename": "tipos" }
+    ]
+  }
+]
