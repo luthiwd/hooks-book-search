@@ -1,13 +1,13 @@
-import { useRef, useState } from 'react'
+import { useRef, useState, useMemo, useCallback } from 'react'
 import { searchBooks } from '../service/books'
 
-export function useBooks ({ search }) {
+export function useBooks ({ search, sort }) {
   const [books, setBooks] = useState([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
   const previousSearch = useRef(search)
 
-  const getBooks = async ({ search }) => {
+  const getBooks = useCallback (async ({ search }) => {
     if (search === previousSearch.current) return
     try {
       setLoading(true)
@@ -20,7 +20,15 @@ export function useBooks ({ search }) {
     }finally{
       setLoading(false)
     }
-  }
+  }, [])
 
-  return { books, getBooks, loading }
+  const sortedBooks = useMemo(() => {
+    
+    return sort
+    ?[...books].sort((a,b) => a.title.localeCompare(b.title))
+    :books
+  }, [sort, books])
+
+
+  return { books: sortedBooks, getBooks, loading }
 }
